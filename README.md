@@ -29,7 +29,7 @@
 #### What's up with me at the moment?
 
 - <img height="16" width="16" src="https://icongr.am/material/book-open-page-variant.svg?size=16&color=81b214" /> Love fiction and magic/fantasy novels. Currently reading _Eragon_.
-- <img height="16" width="16" src="https://icongr.am/material/piano.svg?size=16&color=81b214" /> Trying to play Chim-Chim-Cheerie music sheet on piano.
+- <img height="16" width="16" src="https://icongr.am/material/piano.svg?size=16&color=81b214" /> Trying to play _Chim-Chim-Cheerie_ music sheet on piano.
 - <img height="16" width="16" src="https://icongr.am/material/laptop.svg?size=16&color=81b214" /> Working on a Rails/Vue project (can't say any more :zipper_mouth_face: ). Also adjusting my [`VIM config`](https://github.com/francoserio/neovim-config).
 - <img height="16" width="16" src="https://icongr.am/material/microphone.svg?size=16&color=81b214" /> Learning stand-up comedy.
 - <img height="16" width="16" src="https://icongr.am/material/feather.svg?size=16&color=81b214" /> Writing non-dev things in my [blog](https://elrincondeltano.com).
