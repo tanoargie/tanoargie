@@ -23,6 +23,8 @@
     </a>
 </div>
 
+---
+
 #### What's up with me at the moment?
 
 - <img height="16" width="16" src="https://icongr.am/material/book-open-page-variant.svg?size=16&color=81b214" /> Love fiction and magic/fantasy novels. Currently reading Eragon.
@@ -30,6 +32,8 @@
 - <img height="16" width="16" src="https://icongr.am/material/laptop.svg?size=16&color=81b214" /> Working on a Rails/Vue project (can't say any more :(). Also adjusting my VIM setup.
 - <img height="16" width="16" src="https://icongr.am/material/microphone.svg?size=16&color=81b214" /> Learning stand-up comedy.
 - <img height="16" width="16" src="https://icongr.am/material/feather.svg?size=16&color=81b214" /> Writing non-dev things in my [blog](https://elrincondeltano.com).
+
+---
 
 <!-- #### My last notes on development (soon): -->
 
