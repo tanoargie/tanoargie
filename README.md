@@ -16,7 +16,7 @@
         <img align="left" alt="Franco Serio Twitch" width="22px" src="https://icongr.am/fontawesome/twitch.svg?size=128&color=81b214" />
     </a> 
     <a style="margin: 5px;" href="https://francoserio.github.io/" target="_blank">
-        <img align="left" alt="Franco Serio Github Profile Page" width="22px" src="https://icongr.am/fontawesome/github.svg?size=128&color=81b214" />
+        <img align="left" alt="Franco Serio Github Profile Page" width="22px" src="https://icongr.am/material/web.svg?size=128&color=81b214" />
     </a>
     <a style="margin: 5px;" href="https://www.instagram.com/tano.serio/" target="_blank">
         <img align="left" alt="Tano Serio" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=81b214" />
