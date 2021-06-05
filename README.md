@@ -21,6 +21,9 @@
     <a style="margin: 5px;" href="https://www.instagram.com/tano.serio/" target="_blank">
         <img align="left" alt="Tano Serio" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=81b214" />
     </a>
+    <a style="margin: 5px;" href="https://www.hackerrank.com/FrankSerious" target="_blank">
+        <img align="left" alt="Franco Serio Hackerrank profile" width="22px" src="https://icongr.am/simple/hackerrank.svg?size=12&color=81b214" />
+    </a>
 </div>
 <br>
 
