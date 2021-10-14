@@ -34,7 +34,7 @@
 
 #### What's up with me at the moment?
 
-- <img height="16" width="16" src="https://icongr.am/material/book-open-page-variant.svg?size=16&color=81b214" /> Love fiction and magic/fantasy novels. Currently reading _Blood of Elves_.
+- <img height="16" width="16" src="https://icongr.am/material/book-open-page-variant.svg?size=16&color=81b214" /> Love fiction and magic/fantasy novels. Currently reading _Circo Máximo_.
 - <img height="16" width="16" src="https://icongr.am/material/piano.svg?size=16&color=81b214" /> Trying to play _Chim-Chim-Cheerie_ music sheet on piano.
 - <img height="16" width="16" src="https://icongr.am/material/laptop.svg?size=16&color=81b214" /> Building [Samser](https://samser.co) in my free time. Also adjusting my [`VIM config`](https://github.com/francoserio/neovim-config).
 - <img height="16" width="16" src="https://icongr.am/material/microphone.svg?size=16&color=81b214" /> Learning stand-up comedy.
