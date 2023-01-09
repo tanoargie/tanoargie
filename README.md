@@ -15,14 +15,11 @@
     <a style="margin: 5px;" href="https://www.twitch.tv/franquitoserio" target="_blank">
         <img align="left" alt="Franco Serio Twitch" width="22px" src="https://icongr.am/fontawesome/twitch.svg?size=128&color=81b214" />
     </a> 
-    <a style="margin: 5px;" href="https://francoserio.github.io/" target="_blank">
-        <img align="left" alt="Franco Serio Github Profile Page" width="22px" src="https://icongr.am/material/web.svg?size=128&color=81b214" />
+    <a style="margin: 5px;" href="https://www.elrincondeltano.com/" target="_blank">
+        <img align="left" alt="Franco Serio Blog" width="22px" src="https://icongr.am/material/blogger.svg?size=128&color=81b214" />
     </a>
     <a style="margin: 5px;" href="https://www.instagram.com/tano.serio/" target="_blank">
         <img align="left" alt="Tano Serio" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=81b214" />
-    </a>
-    <a style="margin: 5px;" href="https://www.hackerrank.com/FrankSerious" target="_blank">
-        <img align="left" alt="Franco Serio Hackerrank profile" width="22px" src="https://icongr.am/simple/hackerrank.svg?size=12&color=81b214" />
     </a>
     <a style="margin: 5px;" href="https://codeforces.com/profile/FrankSerious" target="_blank">
         <img align="left" alt="Franco Serio Codeforces profile" width="22px" src="https://icongr.am/simple/codeforces.svg?size=12&color=81b214" />
@@ -34,11 +31,10 @@
 
 #### What's up with me at the moment?
 
-- <img height="16" width="16" src="https://icongr.am/material/book-open-page-variant.svg?size=16&color=81b214" /> Love fiction and magic/fantasy novels. Currently reading _Circo Máximo_.
+- <img height="16" width="16" src="https://icongr.am/material/book-open-page-variant.svg?size=16&color=81b214" /> Love fiction and magic/fantasy novels. Currently reading _La legión perdida_.
 - <img height="16" width="16" src="https://icongr.am/material/piano.svg?size=16&color=81b214" /> Trying to play _Chim-Chim-Cheerie_ music sheet on piano.
 - <img height="16" width="16" src="https://icongr.am/material/laptop.svg?size=16&color=81b214" /> Building [Samser](https://samser.co) in my free time. Also adjusting my [`VIM config`](https://github.com/francoserio/neovim-config).
-- <img height="16" width="16" src="https://icongr.am/material/microphone.svg?size=16&color=81b214" /> Learning stand-up comedy.
-- <img height="16" width="16" src="https://icongr.am/material/feather.svg?size=16&color=81b214" /> Writing dev and non-dev things in my [blog](https://elrincondeltano.com).
+- <img height="16" width="16" src="https://icongr.am/material/feather.svg?size=16&color=81b214" /> Writing dev and non-dev things in my [blog](https://www.elrincondeltano.com).
 - <img height="16" width="16" src="https://icongr.am/material/speaker.svg?size=16&color=81b214" /> Owner of [botonera-argenta](https://botonera-argenta.com.ar).
 
 ---
@@ -51,4 +47,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francoserio&layout=compact&langs_count=10&hide=ASP&theme=gruvbox)
 
-[![Visits Badge](https://badges.pufler.dev/visits/francoserio/francoserio)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.strrl.dev/visits/francoserio/francoserio)](https://badges.strrl.dev)
