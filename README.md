@@ -3,7 +3,7 @@
 #### My name is Franco Serio and I am a fullstack developer based in Buenos Aires, Argentina.
 
 <div style="display: inline-flex; padding-bottom: 10px;">
-    <a style="margin: 5px;" href="https://twitter.com/Frank_Naipe" target="_blank">
+    <a style="margin: 5px;" href="https://twitter.com/tanoserio" target="_blank">
         <img align="left" alt="Franco Serio Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=81b214" />
     </a>
     <a style="margin: 5px;" href="https://www.linkedin.com/in/franco-serio-458666b3/" target="_blank">
