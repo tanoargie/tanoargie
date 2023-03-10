@@ -31,7 +31,7 @@
 
 #### What's up with me at the moment?
 
-- <img height="16" width="16" src="https://icongr.am/material/book-open-page-variant.svg?size=16&color=81b214" /> Love fiction and magic/fantasy novels. Currently reading _La legión perdida_.
+- <img height="16" width="16" src="https://icongr.am/material/book-open-page-variant.svg?size=16&color=81b214" /> Love fiction and magic/fantasy novels. Currently reading _Crónicas del Ángel Gris.
 - <img height="16" width="16" src="https://icongr.am/material/piano.svg?size=16&color=81b214" /> Trying to play _Chim-Chim-Cheerie_ music sheet on piano.
 - <img height="16" width="16" src="https://icongr.am/material/laptop.svg?size=16&color=81b214" /> Building [Samser](https://samser.co) in my free time. Also adjusting my [`VIM config`](https://github.com/francoserio/neovim-config).
 - <img height="16" width="16" src="https://icongr.am/material/feather.svg?size=16&color=81b214" /> Writing dev and non-dev things in my [blog](https://www.elrincondeltano.com).
@@ -40,11 +40,5 @@
 ---
 
 <!-- #### My last notes on development (soon): -->
-
-#### These are some of my stats:
-
-![Franco Serio's GitHub stats](https://github-readme-stats.vercel.app/api?username=francoserio&show_icons=true&theme=gruvbox&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francoserio&layout=compact&langs_count=10&hide=ASP&theme=gruvbox)
 
 [![Visits Badge](https://badges.strrl.dev/visits/francoserio/francoserio)](https://badges.strrl.dev)
