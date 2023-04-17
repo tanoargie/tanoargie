@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/francoserio/francoserio/master/assets/wave.gif" width="30px" height="30px">
 
-#### My name is Franco Serio and I am a fullstack developer based in Buenos Aires, Argentina.
+#### I am a fullstack developer based in Buenos Aires, Argentina.
 
 <div style="display: inline-flex; padding-bottom: 10px;">
     <a style="margin: 5px;" href="https://twitter.com/tanoserio" target="_blank">
