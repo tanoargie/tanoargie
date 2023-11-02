@@ -1,4 +1,4 @@
-# Hi there! <img src="https://raw.githubusercontent.com/francoserio/francoserio/master/assets/wave.gif" width="30px" height="30px">
+## Hi there! <img alt="Wave" src="https://raw.githubusercontent.com/francoserio/francoserio/master/assets/wave.gif" width="30px" height="30px" />
 
 #### I am a fullstack developer based in Buenos Aires, Argentina.
 
