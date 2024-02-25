@@ -1,6 +1,6 @@
 <img alt="Wave" src="https://raw.githubusercontent.com/francoserio/francoserio/master/assets/wave.gif" width="30px" height="30px" />
 
-#### I am a fullstack developer based in Buenos Aires, Argentina.
+#### I am a fullstack developer.
 
 <div style="display: inline-flex; padding-bottom: 10px;">
     <a style="margin: 5px;" href="https://twitter.com/tanoargie" target="_blank">
