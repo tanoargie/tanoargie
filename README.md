@@ -12,7 +12,7 @@
     <a style="margin: 5px;" href="mailto:franco@samser.co" target="_blank">
         <img align="left" alt="My Email" width="22px" src="https://icongr.am/fontawesome/envelope.svg?size=128&color=81b214" />
     </a> 
-    <a style="margin: 5px;" href="https://www.twitch.tv/franquitoserio" target="_blank">
+    <a style="margin: 5px;" href="https://www.twitch.tv/tanoargie" target="_blank">
         <img align="left" alt="My Twitch" width="22px" src="https://icongr.am/fontawesome/twitch.svg?size=128&color=81b214" />
     </a> 
     <a style="margin: 5px;" href="https://www.elrincondeltano.com/" target="_blank">
