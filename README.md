@@ -15,7 +15,7 @@
     <a style="margin: 5px;" href="https://www.twitch.tv/tanoargie" target="_blank">
         <img align="left" alt="My Twitch" width="22px" src="https://icongr.am/fontawesome/twitch.svg?size=128&color=81b214" />
     </a> 
-    <a style="margin: 5px;" href="https://www.elrincondeltano.com/" target="_blank">
+    <a style="margin: 5px;" href="https://elrincondeltano.samser.co/" target="_blank">
         <img align="left" alt="My Blog" width="22px" src="https://icongr.am/material/blogger.svg?size=128&color=81b214" />
     </a>
     <a style="margin: 5px;" href="https://www.instagram.com/tano.argie/" target="_blank">
@@ -34,7 +34,7 @@
 - <img height="16" width="16" src="https://icongr.am/material/book-open-page-variant.svg?size=16&color=81b214" /> Love fiction and magic/fantasy novels, but currently reading _Game Programming Patterns_.
 - <img height="16" width="16" src="https://icongr.am/material/piano.svg?size=16&color=81b214" /> Trying to play _Chim-Chim-Cheerie_ music sheet on piano.
 - <img height="16" width="16" src="https://icongr.am/material/laptop.svg?size=16&color=81b214" /> Building things in my free time. Also adjusting my [`VIM config`](https://github.com/francoserio/neovim-config).
-- <img height="16" width="16" src="https://icongr.am/material/feather.svg?size=16&color=81b214" /> Writing dev and non-dev things in my [blog](https://www.elrincondeltano.com).
+- <img height="16" width="16" src="https://icongr.am/material/feather.svg?size=16&color=81b214" /> Writing dev and non-dev things in my [blog](https://elrincondeltano.samser.co).
 
 ---
 
