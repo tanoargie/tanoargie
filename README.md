@@ -39,6 +39,7 @@
 - <img height="16" width="16" src="https://icongr.am/material/laptop.svg?size=16&color=81b214" /> Building things in my free time. Also adjusting my [`VIM config`](https://github.com/francoserio/neovim-config).
 - <img height="16" width="16" src="https://icongr.am/material/feather.svg?size=16&color=81b214" /> Writing dev and non-dev things in my [blog](https://elrincondeltano.samser.co).
 - <img height="16" width="16" src="https://icongr.am/devicon/vuejs-plain-wordmark.svg?size=16&color=81b214" /> Trying out Nuxt 3 in [Youtrmr](https://youtrmr.samser.co) website.
+- <img height="16" width="16" src="https://icongr.am/devicon/rails-plain.svg?size=16&color=81b214" /> Having a blast showing stats in [Samratings](https://samratings.samser.co) website.
 
 ---
 
