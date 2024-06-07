@@ -24,9 +24,6 @@
     <a style="margin: 5px;" href="https://codeforces.com/profile/FrankSerious" target="_blank">
         <img align="left" alt="My Codeforces profile" width="22px" src="https://icongr.am/simple/codeforces.svg?size=12&color=81b214" />
     </a>
-    <a style="margin: 5px;" href="https://www.upwork.com/freelancers/~0114387368638122d5" target="_blank">
-        <img align="left" alt="Upwork profile" width="22px" src="https://icongr.am/simple/upwork.svg?size=12&color=81b214" />
-    </a>
 </div>
 <br>
 
