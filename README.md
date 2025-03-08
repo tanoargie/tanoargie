@@ -6,7 +6,7 @@
     <a style="margin: 5px;" href="https://twitter.com/tanoargie" target="_blank">
         <img align="left" alt="My Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=81b214" />
     </a>
-    <a style="margin: 5px;" href="https://www.linkedin.com/in/franco-serio-458666b3/" target="_blank">
+    <a style="margin: 5px;" href="https://www.linkedin.com/in/tano-argie/" target="_blank">
         <img align="left" alt="My Linkedin" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=81b214" />
     </a>
     <a style="margin: 5px;" href="mailto:franco@samser.co" target="_blank">
@@ -24,6 +24,9 @@
     <a style="margin: 5px;" href="https://codeforces.com/profile/FrankSerious" target="_blank">
         <img align="left" alt="My Codeforces profile" width="22px" src="https://icongr.am/simple/codeforces.svg?size=12&color=81b214" />
     </a>
+    <a style="margin: 5px;" href="https://leetcode.com/u/tanoargie/" target="_blank">
+        <img align="left" alt="My Leetcode profile" width="22px" src="https://icongr.am/simple/leetcode.svg?size=12&color=81b214" />
+    </a>
 </div>
 <br>
 
@@ -31,8 +34,6 @@
 
 #### What's up with me at the moment?
 
-- <img height="16" width="16" src="https://icongr.am/material/book-open-page-variant.svg?size=16&color=81b214" /> Love fiction and magic/fantasy novels, but currently reading _Game Programming Patterns_.
-- <img height="16" width="16" src="https://icongr.am/material/piano.svg?size=16&color=81b214" /> Trying to play _Chim-Chim-Cheerie_ music sheet on piano.
 - <img height="16" width="16" src="https://icongr.am/material/laptop.svg?size=16&color=81b214" /> Building things in my free time. Also adjusting my [`VIM config`](https://github.com/francoserio/neovim-config).
 - <img height="16" width="16" src="https://icongr.am/material/feather.svg?size=16&color=81b214" /> Writing dev and non-dev things in my [blog](https://elrincondeltano.samser.co).
 - <img height="16" width="16" src="https://icongr.am/devicon/vuejs-plain-wordmark.svg?size=16&color=81b214" /> Trying out Nuxt 3 in [Youtrmr](https://youtrmr.samser.co) website.
