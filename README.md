@@ -36,7 +36,7 @@
 
 - <img height="16" width="16" src="https://icongr.am/material/laptop.svg?size=16&color=81b214" /> Building things in my free time. Also adjusting my [`VIM config`](https://github.com/francoserio/neovim-config).
 - <img height="16" width="16" src="https://icongr.am/material/feather.svg?size=16&color=81b214" /> Writing dev and non-dev things in my [blog](https://elrincondeltano.sam-ser.com).
-- <img height="16" width="16" src="https://icongr.am/devicon/vuejs-plain-wordmark.svg?size=16&color=81b214" /> Trying out Vue 3 in [Samtrmr](https://samtrmr) website.
+- <img height="16" width="16" src="https://icongr.am/devicon/python-plain-wordmark.svg?size=16&color=81b214" /> Trying out video trimming with [Samtrmr](https://rapidapi.com/francoserio/api/samtrmr) API.
 - <img height="16" width="16" src="https://icongr.am/devicon/rails-plain.svg?size=16&color=81b214" /> Having a blast showing stats in [Samratings](https://samratingsarg.com) website.
 - <img height="16" width="16" src="https://icongr.am/devicon/cplusplus-plain.svg?size=16&color=81b214" /> Suffering to learn C++ and SDL with [Tipeo Nada](https://tipeo-nada.sam-ser.com/TipeoNadaWeb.html) game.
 
